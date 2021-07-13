@@ -1,2 +1,2 @@
-# vue-test-cache-directive-1
+# vue-test-cache-directive
 Created with CodeSandbox
